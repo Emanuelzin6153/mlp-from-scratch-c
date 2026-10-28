@@ -86,8 +86,8 @@ onde `σ'(y) = y · (1 - y)`, já que `y` é a saída da própria sigmoide. Depo
 
 Esta é uma implementação didática, com tamanhos fixos em tempo de compilação. Ideias para evoluir:
 
-- [ ] Tamanhos de camada definidos em tempo de execução, com pesos alocados via `malloc`/`free`
-- [ ] Função de multiplicação matriz-vetor reutilizável
+- [x] Tamanhos de camada definidos em tempo de execução, com pesos alocados via `malloc`/`free`
+- [x] Função de multiplicação matriz-vetor reutilizável
 - [ ] Número arbitrário de camadas ocultas
 - [ ] Embaralhar a ordem das amostras a cada época
 - [ ] Inicialização Xavier dos pesos
