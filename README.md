@@ -31,6 +31,7 @@ gcc -O2 -Wall -Wextra xor_mlp.c -o mlp_xor -lm
 # Executar
 ./mlp_xor
 ```
+**⚠️ Note on Compilation: Due to specific environment dependencies or local configuration quirks, this implementation runs out-of-the-box and seamlessly on online C compilers (like OnlineGDB or Replit), serving as a fast, portable sandbox to test the raw neural network logic.**
 
 ### Exemplo de saída
 
