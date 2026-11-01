@@ -90,7 +90,7 @@ Esta é uma implementação didática, com tamanhos fixos em tempo de compilaç�
 - [x] Função de multiplicação matriz-vetor reutilizável
 - [ ] Número arbitrário de camadas ocultas
 - [ ] Embaralhar a ordem das amostras a cada época
-- [ ] Inicialização Xavier dos pesos
+- [x] Inicialização Xavier dos pesos
 - [ ] Entropia cruzada no lugar de MSE (converge mais rápido com sigmoide)
 - [ ] Testar em outros problemas além do XOR (AND, OR, pequenos datasets)
 
